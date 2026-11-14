@@ -1,0 +1,38 @@
+/*Aula 2, dia 13/11/2026*/
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+}
+
+header{
+    background-color: #1e1b3c;
+    color: white;
+    padding: 20px;
+}
+
+nav a{
+    color:#a5b3f4;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+main{
+    padding: 20px;
+}
+
+.card{
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    width: 250px;
+}
+
+button{
+    background-color: #6c5ce7;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
